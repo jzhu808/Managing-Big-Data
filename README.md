@@ -16,4 +16,5 @@ become familiar with major elements of the big data ecosystem.
   [3. User Analysis - Part I](https://github.com/jzhu808/ISOM-671-Managing-Big-Data/blob/master/3.%20User%20Analysis%20-%20Part%20I.ipynb)  
   [3. User Analysis - Part II](https://github.com/jzhu808/ISOM-671-Managing-Big-Data/blob/master/3.%20User%20Analysis%20-%20Part%20II.ipynb)  
   [4. TextBlob](https://github.com/jzhu808/ISOM-671-Managing-Big-Data/blob/master/4.%20TextBlob.ipynb)  
+  Full Report: [Managing Big Data Project Report.pdf](https://github.com/jzhu808/ISOM-671-Managing-Big-Data/blob/master/Managing%20Big%20Data%20Project%20Report.pdf)  
   Data Used: [Amazon Reviews Dataset on AWS S3](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
